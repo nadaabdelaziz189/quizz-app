@@ -1,0 +1,37 @@
+[{
+    "title": "why we use <br> ?",
+    "answer1": " to add break line",
+    "answer2": " to add color",
+    "answer3": " to add background color",
+    "right answer": " to add break line"
+}, {
+    "title": "why we use <font-weight> ?",
+    "answer1": " to add highlight",
+    "answer2": "to change font-weight",
+    "answer3": " to add background color",
+    "right answer": "to change font-weight"
+}, {
+    "title": "why we use <hr> ?",
+    "answer1": "to add line",
+    "answer2": " to add color",
+    "answer3": " to add background color",
+    "right answer": "to add line"
+}, {
+    "title": "why we use <font-size> ?",
+    "answer1": " to add highlight",
+    "answer2": " to add color",
+    "answer3": "to change the font-size",
+    "right answer": "to change the font-size"
+}, {
+    "title": "why we use <i> ?",
+    "answer1": " to add highlight",
+    "answer2": "to make the font italic",
+    "answer3": " to add background color",
+    "right answer": " to make the font italic"
+}, {
+    "title": "why we use <b> ?",
+    "answer1": " to make font bold",
+    "answer2": " to add color",
+    "answer3": " to add background color",
+    "right answer": " to make font bold"
+}]
